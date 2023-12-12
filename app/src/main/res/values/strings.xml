@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">btnClk</string>
+    <string name="yellow">Жёлтый</string>
+    <string name="red">Красный</string>
+    <string name="green">Зелённый</string>
+
+</resources>
